@@ -1,0 +1,206 @@
+{
+    "MirrorList": [
+        "http://n0rp.chemlab.org/android/",
+        "http://n0rp.chemlab.org/android/experimental/",
+        "http://n0rp.chemlab.org/android/nexus/",
+        "http://www.androidspin.com/files/cyanogen/ROM/",
+        "http://android.phaseburn.net/mirrors/cyanogen/",
+        "http://android.phaseburn.net/mirrors/cyanogen/experimental/",
+        "http://android.phaseburn.net/mirrors/cyanogen/nexus/",
+        "http://cyanogen-updater.googlecode.com/files/",
+        "http://cm.gotr00t.us/",
+        "http://cm.xdahost.com/rom/"
+    ],
+    "UpdateList": [
+	{
+            "mod": "Nexus One",
+            "board": "mahimahi",
+            "type": "rom",
+            "name": "CyanogenMod-5.0.5.3-N1",
+            "version": "5.0.5.3",
+            "description": "Fix install issue where system partition is not reformatted|Fix crash in music app when album art is not readable",
+            "branch": "S",
+            "filename": "update-cm-5.0.5.3-N1-signed.zip"
+        },
+	{
+            "mod": "Nexus One",
+            "board": "mahimahi",
+            "type": "rom",
+            "name": "CyanogenMod-5.0.5.2-N1",
+            "version": "5.0.5.2",
+            "description": "Actually fix the OpenVPN issues|Added additional Chinese translations from clockrun|A2SD fixes: prune dex cache and reset permissions on protected packages|Revert the MMS layout changes to fix the right-side icons|Kernel brought up to date with Google|Fix issue where the install fails on a clean or non CM /system|Fix a minor bug in Superuser app|Disable V8 in Webkit and switch back to JSC due to app incompatibilities|Default white 'breathing light' is customizable (from ChainsDD)",
+            "branch": "S",
+            "filename": "update-cm-5.0.5.2-N1-signed.zip"
+        },
+	{
+            "mod": "Nexus One",
+            "board": "mahimahi",
+            "type": "rom",
+            "name": "CyanogenMod-5.0.5.1-N1",
+            "version": "5.0.5.1",
+            "description": "Visit www.cyanogenmod.com for the full changelog!",
+            "branch": "S",
+            "filename": "update-cm-5.0.5.1-N1-signed.zip"
+        },
+	{
+            "mod": "ADP1",
+            "board": "trout|sapphire",
+            "type": "rom",
+            "name": "CyanogenMod-4.2.15.1",
+            "version": "4.2.15.1",
+            "description": "Many many many bugfixes, include GTalk and services problems|Updated Phone and Contacts apps|New wallpapers and graphics from Prash|360 degree auto-orientation|Updated to latest Google release code|Lots of Eclair internal guts|Fixed Busybox problems|Improved performance|OpenVPN integration",
+            "branch": "S",
+            "filename": "update-cm-4.2.15.1-signed.zip"
+        },
+	{
+            "mod": "ADP1",
+            "board": "trout|sapphire",
+            "type": "rom",
+            "name": "CyanogenMod-4.2.14.1",
+            "version": "4.2.14.1",
+            "description": "DeskClock and Music app from Eclair|Wysie's Contacts updated to latest|Browser MT updates, add feature to disable zoom controls|New wallpaper from Prash|Fix flashlight bug|Fixed auto-changing wallpapers bug again|Cytown's Phone mod updated to latest|Many other bugfixes",
+            "branch": "S",
+            "filename": "update-cm-4.2.14.1-signed.zip"
+        },
+	{
+            "mod": "ADP1",
+            "board": "trout|sapphire",
+            "type": "rom",
+            "name": "CyanogenMod-4.2.13",
+            "version": "4.2.13",
+            "description": "New multitouch code|Contacts app updated to Wysie's 2.7|Added backwards-compatibility code for services|Kernel update with new SDCC driver (from Nexus)|Fixed fix_permissions script|Various other bugfixes",
+            "branch": "S",
+            "filename": "update-cm-4.2.13-signed.zip"
+        },
+	{
+            "mod": "ADP1",
+            "board": "trout|sapphire",
+            "type": "rom",
+            "name": "CyanogenMod-4.2.12.2",
+            "version": "4.2.12.2",
+            "description": "All locales should be working correctly now (thanks PsychoI3oy)|Contacts app updated to Wysie's 2.5|Kernel update|Updated translations|Work Email app moved to /data/app",
+            "branch": "S",
+            "filename": "update-cm-4.2.12.2-signed.zip"
+        },
+	{
+            "mod": "ADP1",
+            "board": "trout|sapphire",
+            "type": "rom",
+            "name": "CyanogenMod-4.2.11.1",
+            "version": "4.2.11.1",
+            "description": "Fix ext filesystem bug|Add backwards compatibility code for services|Pinch zoom for browser|Pinch zoom and swipe for gallery|Updated translations|Updated contacts app from Wysie|Phone app fixes from Cytown|Fixed add-to-playlist option in music app when BT enabled|Fixed browser download list|Minor image edits from Prash|Various other fixes..",
+            "branch": "S",
+            "filename": "update-cm-4.2.11.1-signed.zip"
+        },
+	{
+            "mod": "ADP1",
+            "board": "trout|sapphire",
+            "type": "rom",
+            "name": "CyanogenMod-4.2.10.1",
+            "version": "4.2.10.1",
+            "description": "Services bugs fixed|Updated WebKit from Eclair|Browser Alarm Clock Calculator IME and other bits from Eclair|Updated APN list|Updated Contacts app from Wysie|Updated translations|Many other bugfixes",
+            "branch": "S",
+            "filename": "update-cm-4.2.10.1-signed.zip"
+        },
+	{
+            "mod": "ADP1",
+            "board": "trout|sapphire",
+            "type": "rom",
+            "name": "CyanogenMod-4.2.9.1",
+            "version": "4.2.9.1",
+            "description": "Random music playback bug fixed|Less kernel-related crashes in general|Eclair widget backports|Eclair graphics layer backport|Eclair activity manager backport|Fixed APN list so AGPS works properly|Contacts enhancements by Wysie|Quicktabs for Cyrillic and Hebrew from PsychoI3oy|Fixed audio routing issue",
+            "branch": "S",
+            "filename": "update-cm-4.2.9.1-signed.zip"
+        },
+	{
+            "mod": "ADP1",
+            "board": "trout|sapphire",
+            "type": "rom",
+            "name": "CyanogenMod-4.2.8.1",
+            "version": "4.2.8.1",
+            "description": "Fixed unicode SMS issue|Darker launcher tray|Contacts app update from ChainsDD",
+            "branch": "S",
+            "filename": "update-cm-4.2.8.1-signed.zip"
+        },
+	{
+            "mod": "ADP1",
+            "board": "trout|sapphire",
+            "type": "rom",
+            "name": "CyanogenMod-4.2.8",
+            "version": "4.2.8",
+            "description": "Updated kernel with many fixes|Updated Compcache module|Updated APN list|Eclair dialer backport from ChainsDD|Bugfixes from CodeAurora|Enable precise GC in Dalvik|Various visual elements from Eclair|Fix for Android bug 2719",
+            "branch": "S",
+            "filename": "update-cm-4.2.8-signed.zip"
+        },
+	{
+            "mod": "ADP1",
+            "board": "trout|sapphire",
+            "type": "rom",
+            "name": "CyanogenMod-4.2.7.1",
+            "version": "4.2.7.1",
+            "description": "Integrated CodeAurora ARM speedups with Google code (dalvik/bionic/libcutils/etc)|Updated APN list|Kernel update|Full OBEX FTP functionality",
+            "branch": "S",
+            "filename": "update-cm-4.2.7.1-signed.zip"
+        },
+	{
+            "mod": "ADP1",
+            "board": "trout|sapphire",
+            "type": "rom",
+            "name": "CyanogenMod-4.2.6",
+            "version": "4.2.6",
+            "description": "Updated to AOSP-1.6r2|More art from Eclair|Rollback some kernel changes that cuased instability|All locales now available|Many bugfixes",
+            "branch": "S",
+            "filename": "update-cm-4.2.6-signed.zip"
+        },
+	{
+            "mod": "ADP1",
+            "board": "trout|sapphire",
+            "type": "rom",
+            "name": "CyanogenMod-4.2.5",
+            "version": "4.2.5",
+            "description": "Eclair/Blur animations|Eclair Dalvik|Kernel tweaks|Brought back tiny video player|Cytown phone mod update|Contact list photos patch from Geesun|Browser fixes|USB tether thru wifi connection|Other bugfixes",
+            "branch": "S",
+            "filename": "update-cm-4.2.5-signed.zip"
+        },
+	{
+            "mod": "ADP1",
+            "board": "trout|sapphire",
+            "type": "rom",
+            "name": "CyanogenMod-4.2.4",
+            "version": "4.2.4",
+            "description": "OBEX fixes|Toggle Compcache from Spare Parts|Eclair icons and wallpapers|Updated Phone mod from Cytown (v20.1)|Updated BetterBrowser from Loccy|Tons of minor bugfixes and tweaks|Updated Superuser from ChainsDD/Zinx",
+            "branch": "S",
+            "filename": "update-cm-4.2.4-signed.zip"
+        },
+	{
+            "mod": "ADP1",
+            "board": "trout|sapphire",
+            "type": "rom",
+            "name": "CyanogenMod-4.2.3.1",
+            "version": "4.2.3.1",
+            "description": "USB Tethering support|Bluetooth OBEX support|Option to disable Launcher auto-orientation|Shined up drag handles from Prash",
+            "branch": "S",
+            "filename": "update-cm-4.2.3.1-signed.zip"
+        },
+	{
+            "mod": "ADP1",
+            "board": "trout|sapphire",
+            "type": "rom",
+            "name": "CyanogenMod-4.2.2",
+            "version": "4.2.2",
+            "description": "Fix build.prop so Google Voice works|Home icons disappearing bug should be fixed thanks to Zinx|FLAC is fixed (caused by NEW_FAIR_SLEEPERS in CFS, oddly enough)",
+            "branch": "S",
+            "filename": "update-cm-4.2.2-signed.zip"
+        },
+	{
+            "mod": "ADP1",
+            "board": "trout|sapphire",
+            "type": "rom",
+            "name": "CyanogenMod-4.2.1",
+            "version": "4.2.1",
+            "description": "UNIVERSAL! Runs on both Dream and Magic 32B|Based on Android 1.6, many bugfixes and enhancements from AOSP, XDA, and me|Highly optimized kernel with many extra modules|Enhanced ramdisk which uses optimal mount options and smart startup|Includes E2FSProgs for checking and converting Ext filesystems|Apps2SD is automatic! All you need is a second partition (ext).|Launcher with 5 screens and auto-orientation and compact drawer layout|Clean filesystem shutdown at poweroff/reboot, and fsck at boot (no FS corruption!)|Includes T-Mobile IM application, Amazon MP3 store, and Work Email (MS Exchange support)|Does not require 'DangerSPL'|Includes a massive APN list|Maximum CPU scaling frequency set to 528MHz with latency tweaks|Various enhancements to the Settings app including extra partition space|Phone app enhancements by cytown|Loccy's 'BetterBrowser'|MMS enhancements from rgv151|FLAC audio support thanks to kroot|Commandline extras: powertop, htop, nano, busybox, openvpn, openobex tools|Ability to lock home app in memory (control in Spare Parts app)",
+            "branch": "S",
+            "filename": "update-cm-4.2.1-signed.zip"
+        }
+    ]
+}
