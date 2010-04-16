@@ -16,6 +16,16 @@
             "mod": "Nexus One",
             "board": "mahimahi",
             "type": "rom",
+            "name": "CyanogenMod-5.0.6-N1",
+            "version": "5.0.6",
+            "description": "Merged AOSP from Google as of 3/31/2010|Ability to move installed applications between internal storage and SD (from Chris Soyars)|Added libncurses, lsof, irssi, htop, bash, nano and powertop.|Added option to disable USB Debugging notification.|5 column launcher drawer (from Kmobs and ChrisSoyars) - can be switched back to 4 column in Spare Parts|Animated GIF support in the browser (info from Google)|Updated translations from Eug89, RedVirus, and ThiasB|Yahoo mail can be used over wifi (from Invader@AllDroid)|Kernel is now built from source and installed properly by the Android build system (from Android-X86, tweaked by Wes Garner and Chris Soyars)|New camera features (antibanding, focus mode, jpeg quality) from CodeAurora|Battery percentage meter fix from ChainsDD|Fixed some bugs in Dropbear and added dropbear-keygen to generate host keys|New ARM NEON optimizations for Bionic from ARM and 0xlab (http://0xlab.org - Jim Huang)|Audio gain tweaks from Pershoot|Kernel 2.6.33.2|Launcher can auto-orientate now (enable in Spare Parts) - not really all that pretty but it works|Fix the Google backup transport. If you are doing a no-wipe install, run bmgr transport com.google.android.backup/.BackupTransportService in a shell to get it enabled.|More bugfixes from AOSP contributers (http://r.android.com)|Sexied up Nexus LWP from WootRoot and jeagoss with more colors, background, and trackball lighting|Added wireless-tools (iwconfig and friends) to the build|Reverted bcm4329 wifi driver to older version|Added option to set a system-wide http proxy server (this should really be a per-ssid setting though)|Allow Bluetooth in airplane mode (needs settings db update if installing w/o wipe)|Added some sounds back|Added trackball-unlock option from Kmobs (this conflicts with the music skip option)|Fix for the red/pink camera tint bug!! (from HTC/Google)|Number keys work on the vk in the Terminal app again (from Jack Palevich's Google Code project)|Added 5-minute screen timeout option|Potential fixes in build.prop to improve 3G speed on N1 - YMMV.",
+            "branch": "S",
+            "filename": "update-cm-5.0.6-N1-signed.zip"
+        },
+	{
+            "mod": "Nexus One",
+            "board": "mahimahi",
+            "type": "rom",
             "name": "CyanogenMod-5.0.5.3-N1",
             "version": "5.0.5.3",
             "description": "Fix install issue where system partition is not reformatted|Fix crash in music app when album art is not readable",
