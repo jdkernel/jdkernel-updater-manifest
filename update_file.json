@@ -13,6 +13,17 @@
         "http://cm.xdahost.com/rom/"
     ],
     "UpdateList": [
+    {   
+            "mod": "Nexus One",
+            "board": "mahimahi",
+            "type": "rom",
+            "name": "CyanogenMod-5.0.8-N1",
+            "version": "5.0.7.1",
+            "description": "Visit http://cyanogenmod.com/changelogi for the CHANGELOG!"
+            "branch": "S",
+            "filename": "update-cm-5.0.8-N1-signed.zip"
+        },
+
 	{
             "mod": "Nexus One",
             "board": "mahimahi",
