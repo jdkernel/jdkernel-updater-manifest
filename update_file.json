@@ -19,7 +19,7 @@
             "type": "rom",
             "name": "CyanogenMod-5.0.8-N1",
             "version": "5.0.8",
-            "description": "Visit http://cyanogenmod.com/changelog for the CHANGELOG!"
+            "description": "Visit http://cyanogenmod.com/changelog for the CHANGELOG!",
             "branch": "S",
             "filename": "update-cm-5.0.8-N1-signed.zip"
         },
