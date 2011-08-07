@@ -1,8 +1,6 @@
 {
     "MirrorList": [
-        "http://www.jdkoreclipse.net/mirror/kernel/bolt/",
-        "http://www.jdkoreclipse.net/mirror/kernel/vivo/",
-        "http://www.jdkoreclipse.net/mirror/kernel/vivow/"
+        "http://www.jdkoreclipse.net/"
     ],
     "UpdateList": [
         {
