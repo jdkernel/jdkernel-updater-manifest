@@ -1,20 +1,74 @@
 {
     "MirrorList": [
-        "http://www.jdkoreclipse.net/"
+        "http://jdkoreclipse.net/mirror/kernel/bolt/",
+        "http://jdkoreclipse.net/mirror/kernel/vivo/",
+        "http://jdkoreclipse.net/mirror/kernel/vivow/"
     ],
     "UpdateList": [
         {
-            "mod": "Thunderbolt",
+            "mod": "JDkernel",
             "board": "mecha",
             "type": "rom",
             "name": "JDkernel Nightly 7/28",
-            "version": "728",
+            "version": "7/28",
             "description": "Experimental",
             "branch": "X",
-            "filename": "jdkernel_mecha_nightly_07-28-2011.zip"
+            "filename":  "jdkernel_mecha_nightly_07-28-2011.zip"
+        },
+
+     {
+            "mod": "JDkernel",
+            "board": "mecha",
+            "type": "rom",
+            "name": "JDkernel Sense v1.1",
+            "version": "1.1",
+            "description": "Experimental",
+            "branch": "S",
+            "filename": "jdkernel_bolt_sense_v2.zip"
+        },
+    
+        {
+            "mod": "JDkernel",
+            "board": "vivow",
+            "type": "rom",
+            "name": "JDkernel Nightly 7/28",
+            "version": "7/28",
+            "description": "Experimental",
+            "branch": "X",
+            "filename": "jdkernel_vivow_nightly_07-28-2011.zip"
         },
         {
-            "mod": "Thunderbolt",
+            "mod": "JDkernel",
+            "board": "vivo",
+            "type": "rom",
+            "name": "JDkernel Nightly 7/28",
+            "version": "7/28",
+            "description": "Experimental",
+            "branch": "X",
+            "filename": "jdkernel_vivo_nightly_07-28-2011.zip"
+        },
+        {
+            "mod": "JDkernel",
+            "board": "vivo",
+            "type": "rom",
+            "name": "JDkernel Stable v1.0.0",
+            "version": "1.0.0",
+            "description": "Features: New Smartass governor, Undervolted, SLUB unqueued allocater, BFQ v2, BFS 404, Readahead buffer increased to 1040, Optimized compiler (compiled with neon and cortex flags) , Lagfree Governor, swap support, bfs tweaks, smoothass governor, backported conservative and ondemand govs from 3.0 rc7, backported wifi driver from 3.0 rc7, cpuidle code from 3.0 rc6, minmax governor, interactiveX governor, vdd leves interface (supports scriptfusion from the tbolt forum and vipermod from the tbolt forum), call recording, other various tweaks and optimizations.",
+            "branch": "S",
+            "filename": "jdkernel_vivo_v1.0.0.zip"
+        },
+        {
+            "mod": "JDkernel",
+            "board": "vivow",
+            "type": "rom",
+            "name": "JDkernel Stable v1.0.0.1",
+            "version": "1.0.0.1",
+            "description": "Features: New Smartass governor, Undervolted, SLUB unqueued allocater, BFQ v2, BFS 404, Readahead buffer increased to 1040, Optimized compiler (compiled with neon and cortex flags) , Lagfree Governor, swap support, bfs tweaks, smoothass governor, backported conservative and ondemand govs from 3.0 rc7, backported wifi driver from 3.0 rc7, cpuidle code from 3.0 rc6, minmax governor, interactiveX governor, vdd leves interface (supports scriptfusion from the tbolt forum and vipermod from the tbolt forum), call recording, other various tweaks and optimizations.",
+            "branch": "S",
+            "filename": "jdkernel_vivo_v1.0.0.zip"
+        },
+        {
+            "mod": "JDkernel",
             "board": "mecha",
             "type": "rom",
             "name": "JDkernel Stable v1.0.0.1",
