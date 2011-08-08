@@ -11,7 +11,7 @@
             "version": "1",
             "description": "Stable",
             "branch": "S",
-            "filename":  "jdkernel_mecha_nightly_07-28-2011.zip"
+            "filename":  "app.zip"
         },
 
         {
@@ -22,7 +22,7 @@
             "version": "1",
             "description": "Stable",
             "branch": "S",
-            "filename":  "jdkernel_mecha_nightly_07-28-2011.zip"
+            "filename":  "app.zip"
         },
         {
              "mod": "JDkernel",
@@ -32,7 +32,7 @@
             "version": "1",
             "description": "Stable",
             "branch": "S",
-            "filename":  "jdkernel_mecha_nightly_07-28-2011.zip"
+            "filename":  "app.zip"
         }
     ]
 }
