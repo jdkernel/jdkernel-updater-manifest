@@ -9,11 +9,11 @@
             "mod": "JDkernel",
             "board": "mecha",
             "type": "rom",
-            "name": "JDkernel Nightly 7/28",
-            "version": "7/28",
+            "name": "JDkernel Nightly 8/8",
+            "version": "8/8",
             "description": "Experimental",
             "branch": "X",
-            "filename":  "jdkernel_mecha_nightly_07-28-2011.zip"
+            "filename":  "jdkernel_mecha_nightly_08-08-2011.zip"
         },
 
      {
@@ -31,21 +31,21 @@
             "mod": "JDkernel",
             "board": "vivow",
             "type": "rom",
-            "name": "JDkernel Nightly 7/28",
-            "version": "7/28",
+            "name": "JDkernel Nightly 8/8",
+            "version": "8/8",
             "description": "Experimental",
             "branch": "X",
-            "filename": "jdkernel_vivow_nightly_07-28-2011.zip"
+            "filename": "jdkernel_vivow_nightly_08-08-2011.zip"
         },
         {
             "mod": "JDkernel",
             "board": "vivo",
             "type": "rom",
-            "name": "JDkernel Nightly 7/28",
-            "version": "7/28",
+            "name": "JDkernel Nightly 8/8",
+            "version": "8/8",
             "description": "Experimental",
             "branch": "X",
-            "filename": "jdkernel_vivo_nightly_07-28-2011.zip"
+            "filename": "jdkernel_vivo_nightly_08-08-2011.zip"
         },
         {
             "mod": "JDkernel",
