@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
 <Version name="1.0">
-<item>Initial Release</item>
-<item>Json Hsted on github</item>
-<item>Base off cmupdater 5.0.1</item>
+<item>New Graphics</item>
 </Version>
 </changelog>
